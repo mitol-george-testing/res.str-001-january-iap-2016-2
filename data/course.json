@@ -1,0 +1,26 @@
+{
+  "level": "Non Credit",
+  "topics": [
+    [
+      "Social Science",
+      "Geography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e2ea1694-9976-d7b8-7686-38b299860a05"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Geographic Information System (GIS) Tutorial",
+  "course_description": "The MIT GIS Services Group at the MIT Libraries hosts a number of tutorial workshops throughout the year. This resource gathers together some of those introductory workshop materials designed to accustom GIS novices to the various available software packages and introduce them to some of the many features included in GIS systems. Topics include an introduction to two GIS applications, spatial data analysis, and spatial statistics.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.STR-001",
+  "learning_resource_types": [
+    "Programming Assignments"
+  ],
+  "title": "Course Metadata"
+}
